@@ -1,41 +1,56 @@
 {
   "main": {
-    "id": "be035330b2c7c495",
+    "id": "9cf043dbcd04be55",
     "type": "split",
     "children": [
       {
-        "id": "b81aec2380385ad5",
+        "id": "5df16f3bac5733af",
         "type": "tabs",
         "children": [
           {
-            "id": "9ff4de5d1cd181ec",
+            "id": "3c0484e77fbca55b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNS resolving.md",
+                "file": "Keycloak/Keycloak.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNS resolving"
+              "title": "Keycloak"
+            }
+          },
+          {
+            "id": "1a3295dfe8ab8a08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "F5 APM/OAuth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OAuth"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "29c96b7c5908158f",
+    "id": "bbdcc130cb0d8827",
     "type": "split",
     "children": [
       {
-        "id": "668651966d499ffc",
+        "id": "9f3ccc56ab0b38fa",
         "type": "tabs",
         "children": [
           {
-            "id": "069a8c91f097f07b",
+            "id": "e61464c480d8c249",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,12 +62,12 @@
             }
           },
           {
-            "id": "6cdeea07ebd8be64",
+            "id": "570b544b6b29c37a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "dig",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +79,7 @@
             }
           },
           {
-            "id": "8dfda361a2268870",
+            "id": "6edf5b468bc9d063",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,17 +89,7 @@
             }
           },
           {
-            "id": "b0e326c497d3ad5d",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {},
-              "icon": "stacked-levels",
-              "title": "Tag Folder"
-            }
-          },
-          {
-            "id": "06a6d718f538829c",
+            "id": "1b1fe6dd29f7865f",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -97,19 +102,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 249.0110321044922
   },
   "right": {
-    "id": "3c37637addf520ed",
+    "id": "3a38aee493f3e1cc",
     "type": "split",
     "children": [
       {
-        "id": "92cd2db01553e81b",
+        "id": "fbc08145fc2665c5",
         "type": "tabs",
-        "dimension": 35.58341369334619,
         "children": [
           {
-            "id": "704b5f07a846a422",
+            "id": "4e8bfdb75b26082a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "F5 APM/APM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for APM"
+            }
+          },
+          {
+            "id": "fabf7c9a0c8b0767",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "F5 APM/APM.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from APM"
+            }
+          },
+          {
+            "id": "3504b60015270a57",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -122,17 +159,19 @@
             }
           },
           {
-            "id": "f08e93f521348fe4",
+            "id": "8017ac07796c62c7",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "type": "outline",
+              "state": {
+                "file": "F5 APM/APM.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of APM"
             }
           },
           {
-            "id": "edf9004a4c82a70e",
+            "id": "74eff3411d69a16c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -146,92 +185,13 @@
             }
           },
           {
-            "id": "aa64258ef1197f33",
+            "id": "7a25188b75d97c88",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Pasted image 20240908110159.png",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20240908110159"
-            }
-          },
-          {
-            "id": "a605d9272134e62a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Pasted image 20240908110159.png",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20240908110159"
-            }
-          },
-          {
-            "id": "2d6208703bb9891f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Pasted image 20240908110159.png"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Pasted image 20240908110159"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f4bb732fb827dc70",
-        "type": "tabs",
-        "dimension": 34.3297974927676,
-        "children": [
-          {
-            "id": "e5bb2721aafddb61",
-            "type": "leaf",
-            "state": {
-              "type": "timer-view",
+              "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          }
-        ]
-      },
-      {
-        "id": "120d376ecb6bccd1",
-        "type": "tabs",
-        "dimension": 30.08678881388621,
-        "children": [
-          {
-            "id": "136710f27a32957b",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "a65e5691d7e1d6ed",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -243,12 +203,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "pomodoro-timer:Toggle timer panel": false,
       "templater-obsidian:Templater": false,
@@ -259,53 +219,55 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9ff4de5d1cd181ec",
+  "active": "1a3295dfe8ab8a08",
   "lastOpenFiles": [
-    "DNS resolving.md",
-    "OAuth vulnerabilities.md",
-    "Attacking Kerberos.md",
-    "Hydra.md",
-    "OAuth FLow.md",
-    "Attacking Active Directory.md",
-    "images/Kerberos authentication.png",
-    "Shell.md",
-    "Owasp.md",
-    "Arsenal of tools.md",
-    "Firewall.md",
-    "Drawing 2024-10-29 21.57.19.md",
-    "Drawing 2024-10-29 21.57.15.md",
-    "Untitled Kanban.md",
-    "Changing shell in linux.md",
-    "Gobuster.md",
-    "Cryptography.md",
-    "Nmap.md",
-    "Moniker Link (CVE-2024-21413).md",
-    "SSRF.md",
-    "Web Security.md",
-    "WAF DDOS optimization.md",
-    "images/Pasted image 20240908110159.png",
-    "images",
-    "images/Pasted image 20240912215322.png",
-    "images/Pasted image 20240912214152.png",
-    "Routing.md",
+    "LET's Start.md",
+    "Keycloak/Keycloak.md",
+    "Keycloak",
+    "Nayan Rush.md",
+    "Half Proxy.md",
+    "F5 APM/OAuth.md",
+    "F5 APM/SSO.md",
+    "F5 APM/APM.md",
+    "F5 AFM/AFM Rule hierarchy.md",
+    "LDAP/LDAP Configuration in UBUNTU server.md",
+    "F5 AFM",
+    "Images/F5APM working.png",
+    "Images/Pasted image 20241025081703.png",
+    "F5 101/Health Monitor.md",
+    "101 F5 Book/F5 101 Networks Application Delivery Fundamentals.pdf",
+    "CCNA/IP Networking.md",
+    "F5 101/DHCP.md",
+    "SDN integration with F5.md",
+    "F5 201/Interface, Vlan, Trunk and IP relation.md",
+    "DNS/DNS.md",
+    "LDAP",
+    "Images/DNS_TLD.png",
+    "Images/DNS_Queryroot.png",
+    "Images/DNS_ROOT_query.png",
     "Untitled 1.md",
-    "CCNA/CCNA learn.md",
-    "CCNA",
-    "Try Hack Me/Room Shrek.md",
-    "Untitled/Nayan Rush.md",
-    "images/Pasted image 20240912215555.png",
-    "images/Pasted image 20240912214840.png",
-    "obsidian.7z",
-    "images/centralmanager-BigIPNext-UI.png",
-    "images/BigIPNext-CM.png",
-    "images/BigIPNext-violationbased.png",
-    "images/BigIPNext-lowtouchpolicymanagement.png",
-    "3. Resource/Study_Notes_F5_101_Application_Delivery.pdf",
-    "3. Resource/f5.networks.ensurepass.101.actual.test.2022-jan-31.by.peter.153q.vce 1.pdf",
-    "3. Resource/F5 101 Networks Application Delivery Fundamentals.pdf",
-    "3. Resource/Eric_Mitchell_Channel_SE_East_US_and_Fed.pdf",
-    "obsidian.zip",
-    "3. Resource/f5.networks.selftestengine.101.simulations.2022-feb-24.by.jonathan.176q.vce.pdf",
-    "4. Archives"
+    "DNS/Untitled",
+    "DNS",
+    "Images/Authoization_COde_grant.png",
+    "Images/Oauth_clientcred.png",
+    "Images/Resource_OWner.png",
+    "Direct Server Return (DSR).md",
+    "SO much RUSh.md",
+    "Seto Badal.md",
+    "Images/Pasted image 20241017150001.png",
+    "Images/Pasted image 20241017150000.png",
+    "Untitled.canvas",
+    "F5 training.md",
+    "Mobile App pentest/Resources.md",
+    "F5 APM",
+    "F5 101/Application Objects and Load Balancing.md",
+    "101 F5 Book/Untitled.md",
+    "101 F5 Book/Untitled 1.md",
+    "F5 Findings/Disabling root user access.md",
+    "F5 Findings/Self signed certificate to have https in mgmt using cli.md",
+    "F5 training",
+    "101 F5 Book",
+    "F5 201",
+    "Mobile App pentest/Untitled.canvas"
   ]
 }
