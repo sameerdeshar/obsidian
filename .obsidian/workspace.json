@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "(Grass and stone)"
             }
+          },
+          {
+            "id": "f2cdc1541f97683a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cyber advent 2023.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cyber advent 2023"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,8 +243,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e61464c480d8c249",
+  "active": "f2cdc1541f97683a",
   "lastOpenFiles": [
+    "(Grass and stone).md",
+    "cyber advent 2023.md",
     "Keycloak/Keycloak.md",
     "F5 APM/OAuth.md",
     "LET's Start.md",
@@ -273,8 +289,6 @@
     "F5 101/Application Objects and Load Balancing.md",
     "101 F5 Book/Untitled.md",
     "101 F5 Book/Untitled 1.md",
-    "F5 Findings/Disabling root user access.md",
-    "F5 Findings/Self signed certificate to have https in mgmt using cli.md",
     "F5 training",
     "101 F5 Book",
     "F5 201",
