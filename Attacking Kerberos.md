@@ -147,3 +147,6 @@ Attacking the kerberos protocol
 ```
 kerbrute userenum --dc CONTROLLER.local -d CONTROLLER.local User.txt
 ```
+```
+kerbrute userenum users.txt -d spookysec.local --dc 10.10.74.37
+```
