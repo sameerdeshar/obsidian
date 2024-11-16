@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crunch.md",
+                "file": "Hydra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crunch"
+              "title": "Hydra"
             }
           }
         ],
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hydra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -259,8 +260,8 @@
   },
   "active": "4b9dbec91b9217f3",
   "lastOpenFiles": [
-    "cyber advent 2023.md",
     "Crunch.md",
+    "cyber advent 2023.md",
     "(Grass and stone).md",
     "Keycloak/Keycloak.md",
     "F5 APM/OAuth.md",

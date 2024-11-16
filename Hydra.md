@@ -16,3 +16,8 @@ Below is a more concrete example Hydra command to brute force a POST login for
 ```bash
 hydra -l <username> -P <wordlist> 10.10.32.232 http-post-form "/:username=^USER^&password=^PASS^:F=incorrect" -V
 ```
+
+```
+ hydra -l '' -P 3digits.txt -f -v 10.10.221.183 http-post-form
+ "/login.php:pin=^PASS^:Access denied" -s 8000
+```
