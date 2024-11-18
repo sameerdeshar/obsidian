@@ -126,8 +126,7 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -258,7 +257,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4b9dbec91b9217f3",
+  "active": "e61464c480d8c249",
   "lastOpenFiles": [
     "Crunch.md",
     "cyber advent 2023.md",
