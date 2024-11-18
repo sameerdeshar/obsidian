@@ -14,3 +14,6 @@ Now integrate the AD in F5
 ![[F5_AD_integrate.png]]
 Test the integration via terminal
 Login to the f5 terminall shell 
+```
+adtest -t auth -r "raksha.local" -u user1
+```
