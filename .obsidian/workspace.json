@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "SSRF"
             }
-          },
-          {
-            "id": "da5ebcc072475bf6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,8 +83,7 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,8 +214,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "da5ebcc072475bf6",
+  "active": "3927dcecb7c7218b",
   "lastOpenFiles": [
+    "gitignore.md",
+    "conflict-files-obsidian-git.md",
+    "Images/Query_User.png",
+    "Images/F5_AD_integrate.png",
+    "Images/Active_directory_OU.png",
+    "Images/AD_USERS.png",
+    "cyber advent 2023.md",
+    "Distributed Denial of Service(DDoS).md",
+    "Crunch.md",
+    "Configuring Active Directory with F5.md",
+    "(Grass and stone).md",
     "Untitled.md",
     "Untitled Kanban.md",
     "F5 Findings/Update BIG Ip via BIG IQ.md",
@@ -256,22 +253,11 @@
     "F5 AFM/AFM Rule hierarchy.md",
     "LDAP/LDAP Configuration in UBUNTU server.md",
     "F5 AFM",
-    "Images/F5APM working.png",
-    "Images/Pasted image 20241025081703.png",
     "F5 101/Health Monitor.md",
     "101 F5 Book/F5 101 Networks Application Delivery Fundamentals.pdf",
-    "F5 101/DHCP.md",
-    "SDN integration with F5.md",
-    "F5 201/Interface, Vlan, Trunk and IP relation.md",
-    "DNS/DNS.md",
     "LDAP",
-    "Images/DNS_TLD.png",
-    "Images/DNS_Queryroot.png",
-    "Untitled 1.md",
     "DNS/Untitled",
     "DNS",
-    "Direct Server Return (DSR).md",
-    "SO much RUSh.md",
     "Untitled.canvas",
     "F5 APM",
     "F5 training",
