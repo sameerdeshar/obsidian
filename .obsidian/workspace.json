@@ -4,35 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "5df16f3bac5733af",
+        "id": "564cca52a4882d49",
         "type": "tabs",
         "children": [
           {
-            "id": "3c0484e77fbca55b",
+            "id": "3927dcecb7c7218b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keycloak/Keycloak.md",
+                "file": "SSRF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keycloak"
+              "title": "SSRF"
             }
           },
           {
-            "id": "1a3295dfe8ab8a08",
+            "id": "da5ebcc072475bf6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "F5 APM/OAuth.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.7.7"
               },
               "icon": "lucide-file",
-              "title": "OAuth"
+              "title": "Release Notes 1.7.7"
             }
           }
         ],
@@ -67,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "grass and stone",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +96,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -193,13 +192,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "d6617316b2758daf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,21 +221,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "pomodoro-timer:Toggle timer panel": false,
       "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "1a3295dfe8ab8a08",
+  "active": "da5ebcc072475bf6",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled Kanban.md",
+    "F5 Findings/Update BIG Ip via BIG IQ.md",
+    "Images/BiG_Iq6.png",
+    "Images/Big_Iq5.png",
+    "Images/BIG_IQ4.png",
+    "Images/BIG_iq3.png",
+    "Images/BIG_iq2.png",
+    "Images/BIG_IQ1.png",
+    "CCNA/CCNA learn.md",
+    "CCNA/IP Networking.md",
+    "Attacking Kerberos.md",
+    "Attacking Active Directory.md",
+    "Changing shell in linux.md",
+    "this is a test file to test github.md",
+    "F5 APM/OAuth.md",
     "LET's Start.md",
     "Keycloak/Keycloak.md",
     "Keycloak",
     "Nayan Rush.md",
     "Half Proxy.md",
-    "F5 APM/OAuth.md",
     "F5 APM/SSO.md",
     "F5 APM/APM.md",
     "F5 AFM/AFM Rule hierarchy.md",
@@ -236,7 +260,6 @@
     "Images/Pasted image 20241025081703.png",
     "F5 101/Health Monitor.md",
     "101 F5 Book/F5 101 Networks Application Delivery Fundamentals.pdf",
-    "CCNA/IP Networking.md",
     "F5 101/DHCP.md",
     "SDN integration with F5.md",
     "F5 201/Interface, Vlan, Trunk and IP relation.md",
@@ -244,27 +267,13 @@
     "LDAP",
     "Images/DNS_TLD.png",
     "Images/DNS_Queryroot.png",
-    "Images/DNS_ROOT_query.png",
     "Untitled 1.md",
     "DNS/Untitled",
     "DNS",
-    "Images/Authoization_COde_grant.png",
-    "Images/Oauth_clientcred.png",
-    "Images/Resource_OWner.png",
     "Direct Server Return (DSR).md",
     "SO much RUSh.md",
-    "Seto Badal.md",
-    "Images/Pasted image 20241017150001.png",
-    "Images/Pasted image 20241017150000.png",
     "Untitled.canvas",
-    "F5 training.md",
-    "Mobile App pentest/Resources.md",
     "F5 APM",
-    "F5 101/Application Objects and Load Balancing.md",
-    "101 F5 Book/Untitled.md",
-    "101 F5 Book/Untitled 1.md",
-    "F5 Findings/Disabling root user access.md",
-    "F5 Findings/Self signed certificate to have https in mgmt using cli.md",
     "F5 training",
     "101 F5 Book",
     "F5 201",
